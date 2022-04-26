@@ -3,6 +3,7 @@ body {
     background-image: url("image/loginbackground.png");
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: black;
 }
 * {
     margin: 0;
